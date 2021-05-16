@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript.
 - 🌶 I'd like to learn how to write tests. Better tests. More tests. The right tests.
 - 😎 I created the [Accessibility Automation Tracker](https://a11y-automation.dev/) and I think it has a lot of potential.
-- 🧘 [The Zen Dev](https://thezen.dev) is a project that came from a "if you had a guided meditation I'd listen to it" comment.
+- 🧘 [The Zen Dev](https://thezen.dev) is a project that came from feedback I received after a conference talk.
 - ⚡ Fun fact: I served in the U.S. Navy for six years as a [Cryptologic Technician (Interpretive)](https://www.navy.com/careers/cryptologic-technician).
 - 🦚 Find out more about me by visiting [melanie.codes](https://melanie.codes).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melaniesumner/)
