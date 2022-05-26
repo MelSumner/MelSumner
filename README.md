@@ -1,5 +1,6 @@
 # Hi there 👋
 
+- 📩 Need to get ahold of me? Discord is probably the fastest, followed by a DM on [Twitter](https://twitter.com/a11yMel)!
 - 🔭 I’m currently focused on making the web more accessible!
 - 🌱 I’m currently thinking/writing/talking about [Continuous Accessibility](https://noti.st/melsumner/i9uja6/continuous-accessibility) and the [future of accessibility](https://noti.st/melsumner/FfqsyB/accessibility-is-reach).
 - 😎 I created the [Accessibility Automation Tracker](https://a11y-automation.dev/).
